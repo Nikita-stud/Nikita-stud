@@ -23,8 +23,8 @@ Before enrolling at the current institution in October 2022, I ended uo receivin
 After receiving the diploma, I moved to Germany to pursue the study course of international business administration at the University of Hochschule Worms.
 
 ## Future Projects 
-| Rank | THING-TO-RANK |
+| Rank | Upcoming Side Projects |
 |-----:|---------------|
-|     1|     To do list          |
-|     2|     Real life chat app       |
-|     3|               |
+|     1|     To do list website          |
+|     2|     Real life chat website       |
+|     3|      Quiz website        |
