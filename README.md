@@ -14,6 +14,7 @@ Currently student at the institution of Noroff University in Norway.
 
 Before enrolling at the current institution in October 2022, I ended uo receiving a diploma as a qualified carpenter back in 2020. 
 After receiving the diploma, I moved to Germany to pursue the study course of international business administration at the University of Hochschule Worms.
+Came back to Norway to immerse myself in a new life full of sections and divs.
 
 
 ## Currently Ongoing Projects 
@@ -21,6 +22,10 @@ After receiving the diploma, I moved to Germany to pursue the study course of in
 |-----:|---------------|
 |     1|     Calculator         |
 |     2|      Portfolio   |
+
+<br>
+
+> If you have any collab ideas feel free to send me an email or fork and comment your thoughts on one of the ongoing projects
 
 
 ## Future Projects 
