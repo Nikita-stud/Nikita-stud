@@ -23,14 +23,31 @@ Came back to Norway to immerse myself in a new life full of sections and divs.
 |     1|     Calculator         |
 |     2|      Portfolio   |
 
+ 1. Calculator
+    - [x] Make the Calculator in HTML and CSS
+      - [x] Give buttons values and assign them in JS
+        - [ ] Figure out how to save the second value to add to the first one without using Promises
+<br>
+
+ 2. Portfolio
+    - [x] Create the portfolio website
+      - [x] Adjust imgs in frames
+        - [ ] Finish up the small adjustments
+          - [ ] Redesign the project container  
 <br>
 
 > If you have any collab ideas feel free to send me an email or fork and comment your thoughts on one of the ongoing projects
 
 
+
 ## Future Projects 
 | Rank | Upcoming Side Projects |
 |-----:|---------------|
-|     1|     To do list          |
+|     1|     To do list        |
 |     2|     Real life chat      |
 |     3|      Make and answer quiz        |
+
+
++ To do list will allow you to write your notes and save them, tick, delete and edit
++ Real life chat is still an idea that has to be researched before setting up the plan
++ Quiz will allow you to make your set of quiz questions with a timer that you and a friend might be able to play, this can also be added to real life chat project
