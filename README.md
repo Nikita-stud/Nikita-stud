@@ -1,7 +1,4 @@
-# Hi there 👋
-
-<!--
-**Nikita-stud/Nikita-stud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there stranger 👋
 
 Here are some ideas to get you started:
 
@@ -23,7 +20,7 @@ Before enrolling at the current institution in October 2022, I ended uo receivin
 After receiving the diploma, I moved to Germany to pursue the study course of international business administration at the University of Hochschule Worms.
 
 
-## Curent Projects 
+## Currently Ongoing Projects 
 | Rank | Working On |
 |-----:|---------------|
 |     1|     Calculator         |
