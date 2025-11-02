@@ -2,7 +2,7 @@
 
 <!-- Kind and warm welcome if you came here -->
 
-- 🌱 I’m currently learning how to use Bootstrap and 3D CSS animations
+- 🌱 I’m currently learning how to use React with Typescript
 - 💬 Ask me how to center a div
 - 🤔 I’m looking for help to decode and build Bruno Simon Portfolio website 
 - 📫 You can reach me through email: nikita151998de@gmail.com
@@ -20,20 +20,16 @@ Came back to Norway to immerse myself in a new life full of sections and divs.
 ## Currently Ongoing Projects 
 | Rank | Working On |
 |-----:|---------------|
-|     1|     Calculator         |
-|     2|      Portfolio   |
+|     1|     Relaxana        |
 
- 1. Calculator
-    - [x] Make the Calculator in HTML and CSS
-      - [x] Give buttons values and assign them in JS
-        - [ ] Figure out how to save the second value to add to the first one without using Promises
+ 1. Relaxana
+    - [x] Make the booking website with JS, HTML, CSS
+      - [ ] Add booking confiramtion 
+        - [ ] Protect the API of payments
+              
 <br>
 
- 2. Portfolio
-    - [x] Create the portfolio website
-      - [x] Adjust imgs in frames
-        - [ ] Finish up the small adjustments
-          - [ ] Redesign the project container  
+ 
 <br>
 
 > If you have any collab ideas feel free to send me an email or fork and comment your thoughts on one of the ongoing projects
