@@ -2,10 +2,9 @@
 
 <!-- Kind and warm welcome if you came here -->
 
-- 🌱 I’m currently learning how to use React with Typescript
 - 💬 Ask me how to center a div
 - 🤔 I’m looking for help to decode and build Bruno Simon Portfolio website 
-- 📫 You can reach me through email: nikita151998de@gmail.com
+- 📫 You can reach me through email: fedutvikler@gmail.com
 - ⚡ Fun fact: use "columns: px" instead of grid for automic grid filtering
 
 ## About me
