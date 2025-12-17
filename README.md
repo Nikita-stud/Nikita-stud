@@ -1,48 +1,50 @@
-# Hey there stranger 👋
+# Fedorov Utvikling 🇳🇴
 
-<!-- Kind and warm welcome if you came here -->
+**Front-end Development | Norge**
 
-- 💬 Ask me how to center a div
-- 🤔 I’m looking for help to decode and build Bruno Simon Portfolio website 
-- 📫 You can reach me through email: fedutvikler@gmail.com
-- ⚡ Fun fact: use "columns: px" instead of grid for automic grid filtering
+I'm **Nikita Fedorov**, a front-end developer based in Norway with a unique journey into tech.
 
-## About me
-Hi, I'm Nikita, your friendly neighborhood front-end developer. 
-Currently student at the institution of Noroff University in Norway. 
+### The path here
 
-Before enrolling at the current institution in October 2022, I ended uo receiving a diploma as a qualified carpenter back in 2020. 
-After receiving the diploma, I moved to Germany to pursue the study course of international business administration at the University of Hochschule Worms.
-Came back to Norway to immerse myself in a new life full of sections and divs.
+ **2020** — Qualified as a carpenter in Norway  
+ **2020-2022** — Studied International Business Administration at Hochschule Worms, Germany  
+ **2022-Present** — Front-end and Back-end Development student at Noroff University, Norway 
+ **2025-Present** — Opened my own Development agency with fellow friends and students
 
+From building physical structures to building digital ones — turns out I just really like creating things.
 
-## Currently Ongoing Projects 
-| Rank | Working On |
-|-----:|---------------|
-|     1|     Relaxana        |
+---
 
- 1. Relaxana
-    - [x] Make the booking website with JS, HTML, CSS
-      - [ ] Add booking confiramtion 
-        - [ ] Protect the API of payments
-              
-<br>
+## What I work with
 
- 
-<br>
+```
+HTML • CSS • JavaScript • TypeScript • Bootstrap • Tailwind CSS • SQL • Supabase • WordPress
+```
 
-> If you have any collab ideas feel free to send me an email or fork and comment your thoughts on one of the ongoing projects
+---
 
+## Current Project
 
+### FartBot
+Fun little Ai project with Stripe, 
+IOS and Android app for users to fart and get a rating from an OpenAi Api connection
+Users can register and post to the global feed or save in stash up to 5 farts.
 
-## Future Projects 
-| Rank | Upcoming Side Projects |
-|-----:|---------------|
-|     1|     To do list        |
-|     2|     Real life chat      |
-|     3|      Make and answer quiz        |
+**Progress:**
+- [x] Core profile functionality
+- [x] Ai for rating 
+- [ ] Payment API integration & security
 
+---
 
-+ To do list will allow you to write your notes and save them, tick, delete and edit
-+ Real life chat is still an idea that has to be researched before setting up the plan
-+ Quiz will allow you to make your set of quiz questions with a timer that you and a friend might be able to play, this can also be added to real life chat project
+## Let's connect
+
+💬 **Ask me** how to center a div (I have opinions)  
+⚡ **Pro tip:** Try `columns: [value]` instead of grid for automatic filtering layouts  
+🤝 **Collaboration?** Fork a project or [email me](mailto:fedutvikler@gmail.com)
+
+---
+
+<p align="center">
+  <i>Currently decoding the mysteries of <a href="https://bruno-simon.com/">Bruno Simon's portfolio</a> — send help.</i>
+</p>
