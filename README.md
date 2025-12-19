@@ -8,8 +8,8 @@ I'm **Nikita Fedorov**, a front-end developer based in Norway with a unique jour
 
  **2019** — Received a carpenter diploma in Norway  
  **2019-2021** — Studied International Business Administration at Hochschule Worms, Germany  
- **2022-Present** — Front-end and Back-end Development student at Noroff University, Norway 
- **2025-Present** — Opened my own Development agency with fellow friends and students
+ **2022-Present** — Front-end and Back-end Development student at Noroff University, Norway    
+ **2025-Present** — Opened my own Development agency with fellow friends and students 
 
 From building physical structures to building digital ones — turns out I just really like creating things.
 
