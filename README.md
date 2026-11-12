@@ -6,7 +6,6 @@ I'm **Nikita Fedorov**, a developer based in Norway with a slightly unusual rout
 
 ### The path here
 
-**2025 to now** · Founded [fedutvikler.com](https://fedutvikler.com), a development agency with friends and fellow students<br>
 **2025 to now** · Backend Development student at Noroff, Norway<br>
 **2022 to 2025** · Frontend Development student at Noroff, Norway<br>
 **2019 to 2021** · International Business Administration at Hochschule Worms, Germany<br>
